@@ -41,7 +41,11 @@
 			<version>1.11.188</version>
 			<scope>compile</scope>
 		</dependency>
-
+		<dependency>
+			<groupId>com.greco.imagetag</groupId>
+			<artifactId>imagetagcommon</artifactId>
+			<version>0.0.8-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
